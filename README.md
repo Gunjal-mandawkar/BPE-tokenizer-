@@ -11,7 +11,9 @@ The tokenizer can:
 ## 📂 File Structure
 bpe_tokenizer/
 │
+
 ├── src/
+
 │ ├── tokenizer.py
 │ └── main.py 
 ├── alice.txt 
