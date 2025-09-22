@@ -15,9 +15,9 @@ bpe_tokenizer/
 
 ├── src/
 
-│      ├── tokenizer.py
+│                  ├── tokenizer.py
 
-│      └── main.py 
+│                  └── main.py 
 
 ├── alice.txt 
 
